@@ -1,5 +1,4 @@
 import React, { Fragment, Component } from 'react';
-import { ReportBase } from 'istanbul-lib-report';
 import Repos from '../repos/Repos';
 import Spinner from '../layout/Spinner';
 import PropTypes from 'prop-types';
